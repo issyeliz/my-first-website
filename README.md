@@ -1,2 +1,2 @@
 # my-first-website
-example website for tecnhical workshop
+example website for technical workshop
