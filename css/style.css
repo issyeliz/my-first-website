@@ -1,0 +1,17 @@
+body{
+    background-color: aquamarine;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+/* laying out the div so it is in the centre of the webpage no matter what size your window is */
+
+div{
+    width: 200px;
+    height: 200px;
+    background-color: coral;
+    border: 1px solid rgb(10, 46, 83);
+}
